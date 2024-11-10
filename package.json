@@ -1,0 +1,22 @@
+{
+  "name": "bytecoder",
+  "version": "1.0.0",
+  "description": "programming plateform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "rahul rai",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "codemirror": "^6.0.1",
+    "compilex": "^0.7.4",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "mongodb": "^6.10.0",
+    "mongoose": "^8.7.3",
+    "nodemon": "^3.1.7"
+  }
+}
